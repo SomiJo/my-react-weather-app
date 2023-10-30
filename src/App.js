@@ -9,7 +9,8 @@ function App() {
         This App was coded by Somaye Jodeir and is{" "}
         <a
           href="https://github.com/SomiJo/my-react-weather-app.git"
-          target="_blank">
+          target="_blank"
+          rel="noreferrer">
           open_source on Github
         </a>
       </footer>
