@@ -38,6 +38,9 @@
   line-height: 1;
   top: -34px;
 }
+.Weather .unit a {
+  color: black;
+}
 .Weather ul {
   margin: 0;
   padding: 0;
